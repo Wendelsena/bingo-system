@@ -12,4 +12,4 @@
 ## 🛠️ Como rodar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/Wendelsena/bingo-system.git
