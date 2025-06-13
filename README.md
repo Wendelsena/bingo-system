@@ -1,5 +1,5 @@
-# 🎱 Bingo Tecnológico
-Sorteador de números de bingo.  
+# 🎱 Tec-Bingo
+![Sorteador de números de bingo](./imagem.jpg)
 
 ## 📦 Funcionalidades
 - Sorteia números de 1 a 75 sem repetições.
