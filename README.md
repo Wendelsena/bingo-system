@@ -1,6 +1,5 @@
 # 🎱 Tec-Bingo
-Sorteador de números de bingo
-<img src="./imagem.png" alt="Sorteador de números de bingo" width="300"/>
+<img src="./imagem.png" alt="Sorteador de números de bingo" width="200"/>
 
 ## 📦 Funcionalidades
 - Sorteia números de 1 a 75 sem repetições.
